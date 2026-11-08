@@ -5,3 +5,5 @@
 - Telegram-канал: [t.me/elagin_1c](https://t.me/elagin_1c)
 - Статьи и обработки на Инфостарте: [infostart.ru/profile/1612186](https://infostart.ru/profile/1612186/)
 - Сервер справки платформы 1С для ИИ-агентов: [mcp-1c-syntax-assistant](https://github.com/IElagin/mcp-1c-syntax-assistant)
+
+В свободное время делаю игры на Unity 6. Выложена [Kloch: Paper Escape](https://ielagin.itch.io/kloch-paper-escape) на itch.io.
